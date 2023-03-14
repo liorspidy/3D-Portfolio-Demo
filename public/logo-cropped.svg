@@ -1,0 +1,55 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 498 498" width="498" height="498">
+	<title>logo-color-svg</title>
+	<style>
+		.s0 { fill: #0c1d36 } 
+		.s1 { fill: #f9cc0b } 
+		.s2 { fill: #f9cc0b;stroke: #000000;stroke-width: 1.8 } 
+	</style>
+	<path id="Layer" class="s0" d="m-195-252h1000v1000h-1000z"/>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="tight-bounds">
+				<g id="Layer">
+					<g id="Layer">
+						<g id="Layer">
+						</g>
+					</g>
+					<g id="Layer">
+						<g id="Layer">
+							<g id="Layer">
+								<g id="Layer">
+									<g id="Layer">
+										<g id="Layer">
+											<g id="Layer">
+												<g id="Layer">
+													<g id="Layer">
+														<g id="Layer">
+															<g id="Layer">
+																<g id="Layer">
+																	<g id="Layer">
+																		<g id="Layer">
+																			<g id="Layer">
+																				<g id="Layer">
+																					<path id="text-0" class="s1" d="m200.3 381.6h-19.1q-29.5 0-39.2 1.3v-269.2q4.9 1.3 20 1.3 15.2 0 35.2-0.9v219.4h41.7q18 0 28.8-1.2-1.4 47-1.4 48.8v1.9q-19.6-1.4-66-1.4zm253.6-164.8l0.6 49.5q-9.7-1-24.9-1h-60.9v116.3h-55v-268q5.4 0.4 12.4 0.5l14.9 0.4q15.3 0.5 31.8 0.5 49.3 0 94.3-1.7-2.2 17.7-2.2 47.2 0 3.2 0.4 4.8l-0.4 0.6q-10.6-3.1-29.7-3.1h-66.5v55.2h58.7q22 0 26.5-1.2z"/>
+																				</g>
+																			</g>
+																		</g>
+																	</g>
+																</g>
+															</g>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+							<path id="Layer" class="s2" d="m464.3 102.7v-72.7h-437v436.4h437v-72.8h-24.4v48.5h-388.2v-387.8h388.2v48.4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
